@@ -1,0 +1,394 @@
+TmID;Name;Country;Foundation;NumTrophies;Street;StreetNumber;ZipCode;City
+1;1.FC Saarbrücken;Germany;1903-04-18;5;Berliner Promenade;12;66111;Saarbrücken
+2;1.FC Kaiserslautern;Germany;1900-06-02;42;Fritz-Walter-Straße;1;67663;Kaiserslautern
+3;1. FC Köln;Germany;1948-02-13;39;Franz-Kremer-Allee;1-3;50937;Köln
+4;1.FC Nuremberg;Germany;1900-05-04;25;Valznerweiherstraße;200;90480;Nürnberg
+5;AC Milan;Italy;1899-12-16;2;Via Aldo Rossi;8;20149;Milano
+8;Alemannia Aachen;Germany;1900-12-16;3;Krefelder Straße;205;52070;Aachen
+10;Arminia Bielefeld;Germany;1905-05-03;14;Melanchtonstraße;31a;33615;Bielefeld
+11;Arsenal FC;England;1886-12-01;14;Highbury House, 75 Drayton;Park;N5;1BU
+12;AS Roma;Italy;1927-06-07;0;Via di Trigoria Km;3600;00128;Roma
+13;Atlético Madrid;Spain;1903-04-26;0;Paseo Virgen del Puerto;67;28005;Madrid
+14;Austria Vienna;Austria;1911-03-15;0;Horrplatz;1;1100;Wien
+15;Bayer 04 Leverkusen;Germany;1904-07-01;27;Bismarckstraße;122-124;51373;Leverkusen
+16;Borussia Dortmund;Germany;1909-12-19;40;Rheinlanddamm;207-209;44137;Dortmund
+18;Borussia Mönchengladbach;Germany;1900-08-01;39;Hennes-Weisweiler-Allee;1;41179;Mönchengladbach
+20;Bursaspor;Turkey;1963-06-01;0;İzmir Yolu 4. Km. Özlüce;Kavşağı;16110;Nilüfer/BURSA
+21;Chemnitzer FC;Germany;1966-01-15;0;Gellertstraße;25;09130;Chemnitz
+22;Derby County;England;1884-02-05;6;Pride Park;Stadium;DE24;8XL
+23;Eintracht Braunschweig;Germany;1895-12-15;20;Hamburger Straße;210;38112;Braunschweig
+24;Eintracht Frankfurt;Germany;1899-03-08;38;Mörfelder Landstraße;362;60528;Frankfurt
+25;FC Energie Cottbus;Germany;1966-01-31;3;Am Eliaspark;1;03042;Cottbus
+26;FC Basel 1893;Switzerland;1893-11-15;0;Birsstrasse;320A;4020;Basel
+27;Bayern Munich;Germany;1900-02-27;42;Säbener Straße;51-57;81547;München
+29;Everton FC;England;1878-06-01;14;Goodison;Park;L4;4EL
+30;FC Hansa Rostock;Germany;1965-12-28;11;Kopernikusstraße;17c;18057;Rostock
+31;Liverpool FC;England;1892-03-15;15;Anfield;Road;L4;OTH
+33;FC Schalke 04;Germany;1904-05-04;38;Ernst-Kuzorra-Weg;1;45891;Gelsenkirchen
+35;FC St. Pauli;Germany;1910-05-15;7;Harald-Stender-Platz;1;20359;Hamburg
+36;Fenerbahce SK;Turkey;1907-05-03;0;Recep Peker Caddesi;1;34040;Kızıltoprak,
+38;Fortuna Düsseldorf;Germany;1895-05-05;22;Flinger Broich;87;40235;Düsseldorf
+39;1.FSV Mainz 05;Germany;1905-03-16;2;Isaac-Fulda-Allee;5;55124;Mainz
+40;FC Girondins Bordeaux;France;1881-10-01;0;rue Joliot;Curie;33187;Le
+41;Hamburger SV;Germany;1887-09-29;43;Sylvesterallee;7;22525;Hamburg
+42;Hannover 96;Germany;1896-04-12;18;Robert-Enke-Straße;1;30169;Hannover
+43;Heart of Midlothian FC;Scotland;1874-01-01;0;McLeod;Street;EH11;2NL
+44;Hertha BSC;Germany;1892-07-25;25;Hanns-Braun-Straße, Friesenhaus;2;14053;Berlin
+46;Inter Milan;Italy;1908-03-09;0;Corso Vittorio Emanuele II,;9;20122;Milano
+48;Karlsruher SC;Germany;1894-06-06;22;Adenauerring;17;76131;Karlsruhe
+52;MSV Duisburg;Germany;1902-09-17;27;Margaretenstraße;5-7;47055;Duisburg
+56;Rot-Weiss Essen;Germany;1907-02-01;7;Hafenstraße;97a;45356;Essen
+57;Rot-Weiß Oberhausen;Germany;1904-12-18;4;Lindnerstraße;78;46149;Oberhausen
+58;RSC Anderlecht;Belgium;1908-05-27;0;Théo Verbeecklaan;2;1070;Anderlecht
+60;SC Freiburg;Germany;1904-05-30;10;Schwarzwaldstraße;193;79117;Freiburg
+61;Servette FC;Switzerland;1890-03-20;0;Route des Jeunes;16;1227;Carouge
+62;SK Slavia Prague;Czech Republic;1892-11-02;0;U Slavie;1540/2a;100;00
+65;SpVgg Greuther Fürth;Germany;1903-09-23;0;Laubenweg;60;90765;Fürth
+66;SpVgg Unterhaching;Germany;1925-01-01;2;Am Sportpark;9;82008;Unterhaching
+69;SSV Ulm 1846;Germany;1970-05-05;1;Stadionstraße;17;89073;Ulm
+71;Stuttgarter Kickers;Germany;1899-09-21;2;Königssträßle;56;70597;Stuttgart
+72;TSV 1860 Munich;Germany;1860-05-17;20;Grünwalder Straße;114;81547;München
+76;Vålerenga Fotball;Norway;1913-07-29;0;Ullevaal;Stadion;0805;Oslo
+77;Vardar Skopje;North Macedonia;1947-07-22;0;Bulevar Ilinden;b.b;1000;Skopje
+79;VfB Stuttgart;Germany;1893-09-09;41;Mercedesstraße;109;70372;Stuttgart
+80;VfL Bochum;Germany;1848-07-26;30;Castroper Straße;145;44791;Bochum
+82;VfL Wolfsburg;Germany;1945-09-12;9;In den Allerwiesen;1;38446;Wolfsburg
+84;Debreceni VSC;Hungary;1902-03-12;0;Oláh Gábor utca;5.;4028;Debrecen
+85;SV Waldhof Mannheim;Germany;1907-04-11;7;Alsenweg;Alsenweg;68305;Mannheim
+86;SV Werder Bremen;Germany;1899-02-04;42;Franz-Böhmert-Straße;1c;28205;Bremen
+88;Widzew Lodz;Poland;1910-11-25;0;Aleja Marszałka Piłsudskiego;138;92-230;Łódź
+89;1.FC Union Berlin;Germany;1966-01-20;0;An der Wuhlheide;263;12555;Berlin
+91;Preußen Münster;Germany;1906-04-30;1;Fiffi-Gerritzen-Weg;1;48153;Münster
+92;SC Fortuna Köln;Germany;1948-02-21;1;Am Vorgebirgstor;2;50969;Köln
+94;FC Erzgebirge Aue;Germany;1946-03-04;0;Lößnitzer Straße;95;08280;Aue
+95;KFC Uerdingen 05;Germany;1905-11-17;14;Dießemer Bruch 100;A;47805;Krefeld
+97;SG Wattenscheid 09;Germany;1909-09-18;4;Lohrheidestraße;82;44866;Bochum
+99;FC Sachsen Leipzig;Germany;1990-08-01;0;;;;
+101;Tennis Borussia Berlin;Germany;1902-04-09;2;Waldschulallee;34-42;14055;Berlin
+105;SV Darmstadt 98;Germany;1898-05-22;2;Nieder-Ramstädter-Straße;170;64285;Darmstadt
+107;Kickers Offenbach;Germany;1901-05-27;7;Waldemar-Klein-Platz;1;63071;Offenbach
+113;FC Carl Zeiss Jena;Germany;1903-05-13;0;Roland-Ducke-Weg;1;07745;Jena
+114;Besiktas JK;Turkey;1903-03-19;0;Süleyman Seba Caddesi, No. 48;;34357;Akaretler,
+116;FC Aarau;Switzerland;1902-05-26;0;Brügglifeldweg;17;5000;Aarau
+119;Maccabi Tel Aviv;Israel;1906-01-01;0;37 She'erit;Israel;6816522;Tel-Aviv
+122;SK Sturm Graz;Austria;1909-05-01;0;Sternäckerweg;118;8042;Graz
+124;Rangers FC;Scotland;1872-03-01;0;Ibrox;Stadium;G51;2XD
+127;SC Paderborn 07;Germany;1985-06-01;0;Paderborner Straße;89;33102;Paderborn
+129;SG Dynamo Dresden;Germany;1953-04-12;4;Lennéstraße;12;01069;Dresden
+130;Parma Calcio 1913;Italy;1913-07-27;0;Viale Partigiani d'Italia;1;43123;Parma
+131;FC Barcelona;Spain;1899-11-29;1;Avinguda Arístides Maillol;;08028;Barcelona
+141;Galatasaray SK;Turkey;1905-10-20;0;Huzur;Mahallesi;34415;Seyrantepe
+148;Tottenham Hotspur;England;1882-09-05;14;Bill Nicholson Way, 748 High;Road;N17;0AP
+150;Real Betis Balompié;Spain;1907-09-12;0;Avenida;Heliópolis;41012;Sevilla
+156;Levski Sofia;Bulgaria;1914-05-24;0;Todorini kukli;47;1517;Sofia
+157;KAA Gent;Belgium;1898-01-01;0;Ottergemsesteenweg Zuid,;808;9000;Gent
+159;Red Star Belgrade;Serbia;1945-03-04;0;Ljutice Bogdana;1a;11000;Belgrad
+162;AS Monaco;Monaco;1924-08-23;0;7 avenue des;Castelans;98000;Monaco
+164;Blackburn Rovers;England;1875-11-05;12;Ewood;Park;BB2;4JF
+167;FC Augsburg;Germany;1907-08-08;0;Bürgermeister-Ulrich-Straße;90;86199;Augsburg
+168;Zaglebie Lubin;Poland;1945-09-10;0;Marii Skłodowskiej-Curie;98;59-301;Lubin
+170;Rapid Vienna;Austria;1899-01-08;0;Gerhard-Hanappi-Platz;1;1140;Wien
+173;Odense Boldklub;Denmark;1887-07-12;0;Ørbækvej;350;5220;Odense
+175;FK Lyn;Norway;1896-03-03;0;Ullevaal;Stadion;N-0805;Oslo
+180;Southampton FC;England;1885-11-21;13;Britannia;Road;SO14;5FP
+187;1.FC Magdeburg;Germany;1965-12-22;0;Friedrich-Ebert-Straße;62;39114;Magdeburg
+190;FC Copenhagen;Denmark;1992-07-01;0;Per Henrik Lings Allé;2;2100;København
+192;Roda JC Kerkrade;Netherlands;1962-06-27;0;Roda JC Ring;1;6466;NH
+195;Rosenborg BK;Norway;1917-05-19;0;Klæbuveien;125;7492;Trondheim
+197;AC Sparta Praha;Czech Republic;1893-11-16;0;Milady Horákové;1066/98;170;82
+200;FC Utrecht;Netherlands;1970-07-01;0;Herculesplein;241;3584;AA
+204;Lierse SK;Belgium;1906-03-06;0;Lispersteenweg;237;2500;Lier
+206;Bröndby IF;Denmark;1964-12-03;0;Brøndby Stadion;30;2605;Brøndby
+208;CSKA Sofia;Bulgaria;1948-05-05;0;Dragan Cankov;3;1164;Sofia
+222;BFC Dynamo;Germany;1966-01-15;0;Sportforum;Steffenstraße;13053;Berlin
+232;Spartak Moscow;Russia;1922-04-18;0;Volokolamskoe shosse,;69/2;125424;Moskau
+234;Feyenoord Rotterdam;Netherlands;1908-07-19;0;Van Zandvlietplein;1;3077;AA
+237;RCD Mallorca;Spain;1916-03-05;0;Camí dels;Reis;07011;Palma
+238;Lech Poznan;Poland;1922-03-19;0;ul. Bułgarska;17;60-320;Poznań
+239;Viking Stavanger;Norway;1899-08-10;0;Jåttåvågveien;11A;4020;Stavanger
+244;Olympique Marseille;France;1899-08-31;1;33 traverse de la;Martine;13425;Marseille
+255;Legia Warszawa;Poland;1916-03-10;0;Lazienkowska;3;00-449;Warszawa
+256;LKS Lodz;Poland;1908-01-01;0;Aleja Unii Lubelskiej;2;94-020;Łódź
+260;FC Zürich;Switzerland;1896-08-01;0;Werdstrasse;21;8004;Zürich
+265;Panathinaikos Athens;Greece;1908-02-03;0;Irodou Attikou;12A;15124;Athen
+267;IK Start;Norway;1905-07-19;0;Stadionveien;21;4632;Kristiansand
+272;AIK;Sweden;1891-02-15;0;;;;
+276;Hellas Verona;Italy;1903-09-30;0; Via Torricelli;37;37136;Verona
+279;Ferencvárosi TC;Hungary;1899-05-03;0;Üllöi út;129;1091;Budapest
+281;Manchester City;England;1880-01-01;9;Etihad Stadium, Etihad;Campus;M11;3FF
+282;FK Sarajevo;Bosnia-Herzegovina;1946-10-24;0;Maršala Tita;38/b;71000;Sarajevo
+289;Sunderland AFC;England;1879-10-01;6;Stadium of;Light;SR5;1SU
+290;AJ Auxerre;France;1905-12-29;0;Route de;Vaux;89006;Auxerre
+294;SL Benfica;Portugal;1904-02-28;0;Avenida General Norton de Matos;1500;1501-805;Lisboa
+299;Wuppertaler SV;Germany;1954-07-08;3;Hubertusallee;4;42117;Wuppertal
+301;FCSB;Romania;1947-06-07;0;Șoseaua București-Târgoviște 217;E;789161;Mogoșoaia
+306;SC Heerenveen;Netherlands;1920-07-20;0;Abe Lenstra Boulevard;19;8448;JA
+312;Dinamo Bukarest;Romania;1948-05-14;0;Șoseaua Ștefan cel Mare, nr. 7-9,;sector;020121;Bucuresti
+317;Twente Enschede FC;Netherlands;1965-07-01;0;Colosseum;65;7521;PP
+318;Ruch Chorzow;Poland;1920-04-20;0;ul. Cicha;6;41-506;Chorzów
+321;FC Sion;Switzerland;1909-07-01;0;Case postale;32;1921;Martigny-Croix
+328;Borussia Neunkirchen;Germany;1905-07-24;3;Mantes-la-Ville-Platz;12;66538;Neunkirchen
+329;Sliema Wanderers;Malta;1908-11-30;0;Tower Road;21;1602;Sliema
+336;Sporting CP;Portugal;1906-07-01;0;Rua Prof. Fernando da Fonseca Apartado;4;1601-801;Lisboa
+337;Birmingham City;England;1875-01-01;4;Redhill;Road;B38;9EJ
+338;Dynamo Kyiv;Ukraine;1927-05-13;0;vul. Grushevskogo;3;01001;Kyiv
+339;Dnipro Dnipropetrovsk;Ukraine;1917-11-30;0;Pionerskiy lane,;12;49000;Dnipropetrovsk
+349;Barnsley FC;England;1887-01-01;1;Oakwell;Stadium;S71;1ET
+350;Sheffield United;England;1889-01-01;2;Bramall;Lane;S2;4SU
+352;Swindon Town;England;1881-01-01;1;County;Road;SN1;2ED
+353;Lillestrøm SK;Norway;1917-04-02;0;C.J. Hansens Vei;3b;2007;Kjeller
+354;KV Mechelen;Belgium;1904-10-01;0;Kleine Nieuwedijk;53;2800;Mechelen
+355;Bolton Wanderers;England;1874-01-01;7;Reebok Stadium, Burnden;Way;BL6;6JW
+358;Charlton Athletic;England;1905-01-01;7;Floyd;Road;SE7;8BL
+362;Akademisk Boldklub;Denmark;1889-02-26;0;Gladsaxevej;200;2860;Søborg
+365;Spartak Trnava;Slovakia;1923-05-30;0;Koniarekova;19;917;21
+368;Sevilla FC;Spain;1890-01-25;0;Calle Sevilla Fútbol;Club;41005;Sevilla
+369;Lyngby BK;Denmark;1921-03-30;0;Lundtoftevej;61;2800;Kgs.
+370;Aberdeen FC;Scotland;1903-04-14;0;Pittodrie;Street;AB24;5QH
+371;Celtic FC;Scotland;1887-11-06;0;Celtic;Park;G40;3RE
+377;FC Banik Ostrava;Czech Republic;1922-09-08;0;Bukovanského;4/1028;710;00
+379;West Ham United;England;1895-01-01;11;London Stadium, Queen Elizabeth Olympic;;E20;2ST
+383;PSV Eindhoven;Netherlands;1913-08-31;0;Fredriklaan;10a;5616;NH
+395;FC Linz;Austria;1945-11-30;0;;;;
+398;SS Lazio;Italy;1900-01-09;0;Via di Santa Cornelia;1000;00060;Roma
+399;Leeds United;England;1919-10-17;12;Elland Road ;;LS11;0ES
+403;Willem II Tilburg;Netherlands;1896-08-12;0;Goirleseweg;34;5026;PC
+405;Aston Villa;England;1874-03-01;14;Villa;Park;B6;6HE
+409;Red Bull Salzburg;Austria;1933-09-13;0;Stadionstraße;1/3;5071;Wals-Siezenheim
+410;Udinese Calcio;Italy;1896-07-05;0;Via A. e A. Candolini;2;33100;Udine
+413;LASK;Austria;1908-08-01;0;Poststraße;38;4061;Pasching
+416;Torino FC;Italy;1906-12-03;0;Via Arcivescovado;1;10122;Torino
+417;OGC Nice;France;1904-07-09;0;177, Route de;Grenoble;06200;Nice
+418;Real Madrid;Spain;1902-03-06;3;Avenida de Concha Espina;1;28036;Madrid
+419;GNK Dinamo Zagreb;Croatia;1911-04-26;0;Maksimirska;128;10000;Zagreb
+422;Wisla Kraków;Poland;1906-09-01;0;Reymonta;20;30-059;Kraków
+428;Górnik Zabrze;Poland;1948-12-14;0;ul. Roosevelta;81;41-800;Zabrze
+429;Apollon Limassol;Cyprus;1954-04-14;0;P.O.Box 53206, 3301 Glastonos;93;3032;Limassol
+430;ACF Fiorentina;Italy;1926-08-29;0;Viale Manfredo Fanti,;4;50137;Firenze
+434;FC Luzern;Switzerland;1901-04-13;0;Horwerstrasse;34;6002;Luzern
+443;Vejle Boldklub;Denmark;1891-05-03;0;Roms Hule;6;7100;Vejle
+447;HNK Hajduk Split;Croatia;1911-02-13;0;8. Mediteranskih igara;2;21000;Split
+448;FK Vojvodina Novi Sad;Serbia;1914-03-06;0;Dimitrija Tucovića;1;21000;Novi
+449;Trabzonspor;Turkey;1967-08-02;0;Üniver. Mh. A.Suat Özyazıcı Cd.;No:31-35;61000;Trabzon
+450;FK Dukla Prag;Czech Republic;1947-11-30;0;Na Julisce;28;160;00
+452;BSC Young Boys;Switzerland;1898-03-14;0;Papiermühlestrasse;77;3000;Bern
+455;FC Rapid 1923;Romania;1923-06-25;0;Bd. Lacul Tei, nr. 1-3, et. 5, sector;2;20371;Bukarest
+459;FC 08 Homburg;Germany;1908-08-01;3;Rondell;4;66424;Homburg
+468;Sparta Rotterdam;Netherlands;1888-04-01;0;Spartapark Noord;1;3027;VW
+496;Malmö FF;Sweden;1910-02-24;0;Box;19067;20073;Malmö
+504;Grasshopper Club Zurich;Switzerland;1886-09-01;0;Dielsdorferstrasse;165;8155;Niederhasli
+506;Juventus FC;Italy;1897-11-01;1;Corso Galileo Ferraris;32;10128;Torino
+511;Dundee FC;Scotland;1893-05-20;0;Sandeman Street;;DD3;7JY
+512;Stoke City;England;1863-01-01;0;Stanley Matthews;Way;ST4;4EG
+527;FC Lausanne-Sport;Switzerland;1896-09-01;0;Case postale;175;1018;Lausanne
+533;TSG 1899 Hoffenheim;Germany;1899-07-01;0;Horrenberger Straße;58;74939;Zuzenhausen
+540;Slovan Bratislava;Slovakia;1919-05-03;0;Viktora Tegelhoffa;4;831;04
+543;Wolverhampton Wanderers;England;1877-01-13;1;Waterloo;Road;WV14QR;Wolverhampton
+583;Paris Saint-Germain;France;1970-08-12;0;24 rue du;Commandant-Guilbaud;75016;Paris
+588;FK Dinamo Tirana;Albania;1950-07-19;0;;;;
+602;Zalgiris Vilnius;Lithuania;1947-05-16;0;Olimpieciu g.;17;09237;Vilnius
+603;Cardiff City;Wales;1899-01-01;0;Sloper;Road;CF11;8SX
+610;Ajax Amsterdam;Netherlands;1900-03-18;1;Arena Boulevard 29;b;1101;AX
+618;AS Saint-Étienne;France;1933-06-01;0;11 rue de;Verdun;42580;Saint-Étienne
+621;Athletic Bilbao;Spain;1897-11-30;0;Alameda de Mazarredo;23;48009;Bilbao-Bilbo
+625;Neuchâtel Xamax;Switzerland;1910-06-16;0;Case postale;2351;2001;Neuchâtel
+631;Chelsea FC;England;1905-03-10;14;Fulham;Road;SW6;1HS
+634;MTK Budapest;Hungary;1888-11-16;0;Salgótarjáni u.;12-14;1087;Budapest
+641;Middlesbrough FC;England;1876-01-01;11;Riverside;Stadium;TS3;6RS
+660;Shakhtar Donetsk;Ukraine;1936-05-24;0;vul Artema;86a;83050;Donetsk
+663;Dinamo Tbilisi;Georgia;1925-09-01;0;Boris Paichadze street, Digomi,;Tbilisi;0159;Tbilisi
+667;RC Strasbourg Alsace;France;1906-01-01;0;12 rue de;l’Extenwoerth;67021;Strasbourg
+669;FK Partizan Belgrade;Serbia;1945-10-04;0;Humska;1;11000;Belgrad
+676;Wiener Sport-Club;Austria;1907-02-25;0;Alszeile;19;1170;Wien
+677;Ipswich Town;England;1878-01-01;5;Portman;Road;IP1;2DA
+678;Aarhus GF;Denmark;1880-09-26;0;Stadion Allé;70;8000;Århus
+681;Real Sociedad;Spain;1908-11-30;0;Paseo de Anoeta;1;20014;Donostia-San
+683;Olympiacos Piraeus;Greece;1925-03-10;0;Alexandras Square-Zea;Port;18534;Piräus
+687;Molde FK;Norway;1911-06-19;0;Julsundveien;14;6412;Molde
+699;Helsingborgs IF;Sweden;1907-06-04;0;Box;2074;25002;Helsingborg
+703;Nottingham Forest;England;1864-11-30;5;The City;Ground;NG;2
+706;1.FC Frankfurt (Oder);Germany;1951-08-02;0;Buschmühlenweg;172;15230;Frankfurt
+708;Újpest FC;Hungary;1885-06-16;0;Megyeri út;13;1044;Budapest
+709;Budapest Honvéd FC;Hungary;1909-08-03;0;Puskás Ferenc u.;1-3.;1194;Budapest
+712;Etar Veliko Tarnovo;Bulgaria;1923-11-30;0;;;;
+713;BATE Borisov;Belarus;1996-04-12;0;Prospekt der Revolution;16;222120;Borisov
+715;FC Bohemians Prag 1905;Czech Republic;1904-11-30;0;Vršovická;31;101;00
+720;FC Porto;Portugal;1893-09-28;1;Via FC Porto – Entrada Nascente, piso;3;4350-415;Porto
+730;Lokomotiv Sofia;Bulgaria;1929-09-02;0;Rozhen;23;1220;Sofia
+759;Slask Wroclaw;Poland;1947-01-01;0;Oporowska;62;53-434;Wrocław
+762;Newcastle United;England;1892-12-01;13;St. James';Park;NE1;4ST
+786;AEL Limassol;Cyprus;1930-10-04;0;Giorgou Thyrotou,;1;3012;Limassol
+790;NK Maribor;Slovenia;1960-12-12;0;Mladinska ulica;29;2000;Maribor
+800;Atalanta BC;Italy;1907-10-17;0;Zingonia - Corso;Europa;20040;Bergamo
+801;IFK Göteborg;Sweden;1904-10-04;0;Kamratgardsvagen;50;416;55
+826;RC Lens;France;1906-01-01;0;33 rue;Arthur-Lamendin;62210;Avion
+829;Omonia Nicosia;Cyprus;1948-06-04;0;;;;
+873;Crystal Palace;England;1905-01-01;4;Selhurst;Park;SE25;6PU
+897;Deportivo de La Coruña;Spain;1906-05-11;0;Plaza de Pontevedra;19-1°;15003;La
+903;Hibernian FC;Scotland;1875-08-06;0;12 Albion Place;;EH7;5QG
+920;Derry City;Northern Ireland;1927-11-30;0;Lone Moor Road;;BT48;9HZ
+931;Fulham FC;England;1879-12-21;5;Stevenage;Road;SW6;6HH
+932;Lokomotiv Moscow;Russia;1922-07-23;0;Bolshaya Cherkizovskaya,;125;107553;Moskau
+938;FC Thun;Switzerland;1898-05-04;0;Gwattstrasse;16;3601;Thun
+940;Celta de Vigo;Spain;1927-01-01;0;Calle Conde de Gondomar;1;36203;Vigo
+941;FC Viktoria Plzen;Czech Republic;1911-03-01;0;Štruncovy;sady;301;12
+952;UTA Arad;Romania;1945-04-18;0;Calea Victoriei, nr.;20;310158;Arad
+964;Zenit St. Petersburg;Russia;1925-05-25;0;Dobrolyubova, 16, building;2;197341;Sankt
+969;HSC Montpellier;France;1974-01-01;0;Avenue Albert;Einstein;34070;Montpellier
+984;West Bromwich Albion;England;1878-11-01;3;Halfords;Lane;B71;4LF
+985;Manchester United;England;1962-01-01;15;Sir Matt Busby;Way;M16;0RA
+989;AFC Bournemouth;England;1899-01-01;0;Dean;Court;BH7;7AF
+990;Coventry City;England;1883-01-01;9;Ricoh;Arena;CV6;6GE
+991;Milton Keynes Dons;England;1889-01-01;8;Stadium Way;West;MK1;1ST
+995;FC Nantes;France;1943-04-21;0;;;;
+1003;Leicester City;England;1884-01-01;8;Filbert;Way;LE2;7FL
+1007;Universitatea Craiova;Romania;1991-11-27;0;;;;
+1008;HJK Helsinki;Finland;1907-06-19;0;Urheilukatu;5;00250;Helsinki
+1010;Watford FC;England;1881-01-01;1;Vicarage;Road;WD18;0ER
+1011;Halmstads BK;Sweden;1914-03-06;0;Box;223;30106;Halmstad
+1017;Hapoel Tel Aviv;Israel;1926-01-01;0;Ha’lohamim Str.;15;61084;Tel-Aviv-Yaffa
+1020;Portsmouth FC;England;1898-04-05;3;Fratton Park, Frogmore;Road;PO4;8RA
+1025;Bologna FC 1909;Italy;1909-10-03;0;Via Casteldebole;10;40132;Bologna
+1027;Bradford City;England;1903-05-25;2;Valley;Parade;BD8;7DY
+1032;Reading FC;England;1871-12-25;0;Madejski Stadium, Junction 11,;M4;RG2;0FL
+1033;Valur Reykjavík;Iceland;1911-05-11;0;Hlíðarenda við;Laufásveg;101;Reykjavík
+1035;Sheffield Wednesday;England;1867-09-04;8;Hillsborough;Hillsborough;S6;1SW
+1038;UC Sampdoria;Italy;1946-08-12;0;Piazza Borgo Pila,;39;16129;Genova
+1039;Queens Park Rangers;England;1882-01-01;4;Loftus Road;Stadium;W12;7PA
+1041;Olympique Lyon;France;1950-08-03;0;350 avenue Jean;Jaurès;69007;Lyon
+1043;FC Skonto Riga;Latvia;1991-11-01;0;Elizabetes iela;75;1050;Riga
+1044;Djurgardens IF;Sweden;1891-03-12;0;Valhallavägen;104;11433;Stockholm
+1049;Valencia CF;Spain;1919-03-18;0;Calle Pintor Monleón;4;46023;Valencia
+1050;Villarreal CF;Spain;1923-03-10;0;Camino;Miralcamp;12540;Villarreal
+1053;Aalborg BK;Denmark;1885-05-13;0;Hornevej;2;9220;Aalborg
+1064;Maccabi Haifa;Israel;1913-01-01;0;Heinrich-Heine-Straße;14;33264;Hefa
+1071;Wigan Athletic;England;1932-01-01;1;The DW Stadium, Loire Drive,;Newtown;WN5;0UZ
+1073;KSK Beveren;Belgium;1935-09-09;0;Klapperstraat;Klapperstraat;9120;Beveren
+1075;SC Braga;Portugal;1921-01-19;0;Estádio Municipal de Braga Apartado;12;4711-909;Braga
+1078;Oldham Athletic;England;1899-07-04;2;Furtherwood;Road;OL1;2PA
+1082;LOSC Lille;France;1944-09-23;0;Domaine de;Luchin;59780;Camphin-en-Pévèle
+1083;FK Rostov;Russia;1930-05-10;0;Sholokhova,;31e;344029;Rostov-na-Donu
+1084;Málaga CF;Spain;1947-11-30;0;Martirícos;Martirícos;29011;Málaga
+1090;AZ Alkmaar;Netherlands;1967-05-10;0;Stadionweg;1;1812;AZ
+1091;PAOK Thessaloniki;Greece;1926-04-12;0;Mikras Asias;1;543;51
+1096;Royal Antwerp FC;Belgium;1880-09-01;0;Oude Bosuilbaan;54a;2100;Deurne
+1110;Huddersfield Town;England;1908-01-01;0;Stadium;Way;HD1;6PX
+1118;Örgryte IS;Sweden;1887-12-04;0;Box;52025;40024;Göteborg
+1123;Norwich City;England;1902-06-17;4;Carrow;Road;NR1;1JE
+1132;Burnley FC;England;1882-01-01;0;Harry Potts;Way;BB10;4BX
+1180;Dinamo Minsk;Belarus;1927-06-18;0;Prospekt Pobeditelej;51;220004;Minsk
+1181;Blackpool FC;England;1887-07-26;0;Seasiders;Way;FY1;6JJ
+1184;KRC Genk;Belgium;1988-07-01;0;Stadionplein;4;3600;Genk
+1186;Torpedo Moscow;Russia;1924-08-17;0;ul. Vostochnaya;4a;115280;Moskau
+1189;St. Patricks Athletic;Ireland;1929-05-31;0;125 Emmet Road;;8;Dublin
+1225;FC Haka;Finland;1934-01-01;0;Tehtaankatu;9;37600;Valkeakoski
+1231;ÍA Akranes;Iceland;1945-11-30;0;Pósthólf;30;302;Akranes
+1237;Brighton & Hove Albion;England;1901-08-21;0;Village;Way;BN1;9BL
+1257;Jeunesse Esch;Luxembourg;1907-08-13;0;BP;45;4001;Esch/Alzette
+1390;Cagliari Calcio;Italy;1920-05-30;0;Via Mameli;106;09123;Cagliari
+1402;Olympiakos Nicosia;Cyprus;1931-01-23;0;Athinas;6A;22339;Nicosia
+1421;Stade Reims;France;1931-06-18;0;26 rue;Robert-Fulton;51100;Reims
+1443;MSK Zilina;Slovakia;1907-11-30;0;Športová;9;010;01
+1519;Dundee United FC;Scotland;1909-05-24;0;Tannadice Street;;DD3;7JW
+1522;FC Avenir Beggen;Luxembourg;1915-07-01;0;;;;
+1839;KA Akureyri;Iceland;1928-01-08;0;Dalsbraut;Dalsbraut;600;Akureyri
+1894;Hvidovre IF;Denmark;1925-10-15;0;Sollentuna Allé;1-3;2650;Hvidovre
+1897;FC Hradec Králové;Czech Republic;1904-11-30;0;;;;
+2049;KF Tirana;Albania;1920-08-15;0;;;;
+2055;FC La Chaux-de-Fonds;Switzerland;1894-07-01;0;Case postale;564;2300;La
+2149;Blau-Weiß 90 Berlin;Germany;1991-11-30;0;Rathausstraße;10a;12105;Berlin
+2227;SK Tavriya Simferopol;Ukraine;1958-04-20;0;vul. Pushkina;46;95011;Simferopol,
+2275;Turun Palloseura;Finland;1922-01-01;0;Ruissalon puistotie 85;;20100;Turku
+2282;Club Brugge KV;Belgium;1891-11-23;0;Olympialaan;74;8200;Brugge
+2288;Swansea City;Wales;1912-09-07;0;Landore;Landore;SA1;2FA
+2410;CSKA Moscow;Russia;1911-08-27;0;3-ya Peschanaya,;2a;125252;Moscow
+2418;FC Arges Pitesti;Romania;1953-08-06;0;;;;
+2441;AEK Athens;Greece;1924-04-13;0;Olympou &;Patmou;15123;Marousi
+2444;FC Wacker Innsbruck;Austria;1913-01-01;0;Stadionstrasse;1B;6020;Innsbruck
+2503;Boavista Porto FC;Portugal;1903-08-01;0;Rua O Primeiro de;Janeiro;4100-464;Porto
+2531;Botev Plovdiv;Bulgaria;1912-03-11;0;2 Voden;str.;4016;Plovdiv
+2553;Kilmarnock FC;Scotland;1869-01-05;0;Rugby;Road;KA1;2DP
+2573;FK Zeljeznicar Sarajevo;Bosnia-Herzegovina;1921-09-15;0;Zvornicka;27;71000;Sarajevo
+2698;Rubin Kazan;Russia;1958-04-20;0;Kopylova,;2;420036;Kazan
+2778;FC Nordsjaelland;Denmark;2003-07-01;0;Farum Park;2;3520;Farum
+2781;FC Petrzalka;Slovakia;1898-06-07;0;M.C. Sklodowskej;1;851;04
+2784;APOEL Nicosia;Cyprus;1926-11-08;0;Dimofontos Str.;39;1075;Nikosia
+2817;Strømsgodset IF;Norway;1907-02-10;0;Øvre Eikervei;25;3005;Drammen
+2844;IFK Norrköping;Sweden;1897-05-29;0;Ektorpsgatan;6;60237;Norrköping
+2961;Moss FK;Norway;1906-08-28;0;Nordahl Griegs gate;26;1524;Moss
+2973;RWD Molenbeek;Belgium;1972-11-30;0;;;;
+3008;Hull City;England;1904-06-28;0;KCOM;Stadium;HU3;6HU
+3057;Standard Liège;Belgium;1900-04-01;0;Rue de la Centrale,;2;4000;Lüttich
+3189;Ilves Tampere;Finland;1932-04-10;0;Rieväkatu;12;33540;Tampere
+3237;KR Reykjavík;Iceland;1899-02-16;0;Frostaskjóli;2;107;Reykjavík
+3258;Shamrock Rovers;Ireland;1899-05-17;0;Whitestown;Way;Dublin;24
+3426;Esbjerg fB;Denmark;1924-07-23;0;Gl. Vardevej;88;6700;Esbjerg
+3463;Glenavon FC;Northern Ireland;1989-11-01;0;Mourneview;Avenue;BT66;8EW
+3471;Linfield FC;Northern Ireland;1886-02-28;0;Windsor Park Donegall;Avenue;BT12;6LW
+3793;Beitar Jerusalem;Israel;1935-11-30;0;24 Kanfei Nesharim Str. Givat;Shaul;95464;Jerusalem
+3831;Coleraine FC;Northern Ireland;1926-11-30;0;Ballycastle;Road;BT52;2DY
+3832;Fram Reykjavík;Iceland;1908-05-01;0;Safamýri;26;108;Reykjavík
+3837;Fredrikstad FK;Norway;1903-04-07;0;Mads W. Stangsgate;18;1610;Fredrikstad
+3899;Anorthosis Famagusta;Cyprus;1911-01-30;0;Papadopoulos;St.;6307;Larnaka
+3909;Shelbourne FC;Ireland;1895-01-01;0;;;;
+4024;FC Reipas Lahti;Finland;1891-01-01;0;;;;
+4040;FK Partizani;Albania;1946-02-04;0;Rr. Asim Vokshi, P. 13 Katësh, Kati;2;1001;Tiranë
+4273;Athlone Town AFC;Ireland;1887-01-08;0;Lissywoollen;Lissywoollen;Athlone,;Co
+4286;Limerick FC;Ireland;1936-11-30;0;;;;
+4421;Lisburn Distillery FC;Northern Ireland;1879-11-30;0;;;;
+4603;AE Larisa;Greece;1964-05-17;0;72 Kyprou Street, Larissa;;41500;Larissa
+4668;Csepel FC;Hungary;1911-11-30;0;Béke tér;1;1212;Budapest
+4772;NK Olimpija Ljubljana;Slovenia;2005-03-02;0;Dvorakova;3;1000;Ljubljana
+4795;FC Ingolstadt 04;Germany;2004-02-05;0;Am Sportpark;1b;85053;Ingolstadt
+4959;Otelul Galati;Romania;1964-01-01;0;Str. Anghel Saligny, nr.;2;800324;Galaţi
+5200;IFK Malmö;Sweden;1899-04-23;0;Eric Perssons;väg;Malmö;Stad
+5225;FC Zbrojovka Brno;Czech Republic;1913-01-14;0;Srbská;47a;61200;Brno
+5378;Vasas FC;Hungary;1911-03-16;0;Fáy u.;58;1139;Budapest
+5594;Portadown FC;Northern Ireland;1879-11-30;0;Brownstown;Road;BT62;3PZ
+5608;SV Tasmania Berlin;Germany;1973-02-03;0;Oderstraße;182;12051;Berlin
+5766;Köge Boldklub;Denmark;1927-10-01;0;Ved Stadion;6;4600;Køge
+5790;B1909 Odense;Denmark;1909-09-14;0;Gillestedvej;12;5240;Odense
+5849;Víkingur Reykjavík;Iceland;1908-04-21;0;Traðarlandi;1;108;Reykjavík
+6055;ETO FC Győr ;Hungary;1904-07-01;0;Nagysándor József utca;31.;9027;Győr
+6066;Dundalk FC;Ireland;1903-09-01;0;;;;
+6139;Atvidabergs FF;Sweden;1907-07-01;0;Box;87;59722;Atvidaberg
+6195;SSC Napoli;Italy;1926-08-01;0;Via del Maio di Porto;9;80133;Napoli
+6251;Kuopion Palloseura;Finland;1923-03-16;0;Kaartokatu;6;70620;Kuopio
+6335;Valletta FC;Malta;1904-01-09;0;126, Triq Santa;Lucija;VLT;1183
+6469;Skeid Oslo;Norway;1915-01-01;0;Kjelsåsveien;9;0488;Oslo
+6764;PFC Beroe Stara Zagora;Bulgaria;1916-05-06;0;;;;
+6983;KF Elbasani;Albania;1923-01-01;0;;;;
+7609;Waterford FC;Ireland;1929-11-30;0;;;;
+7769;CFR Cluj;Romania;1907-01-01;0;Str. Romulus Vuia nr.;23;400214;Cluj-Napoca
+7976;Polonia Bytom;Poland;1945-05-21;0;Rynek;19;41-902;Bytom
+8036;ÍBV Vestmannaeyjar;Iceland;1903-04-01;0;Týsheimli við;Hamarsveg;900;Vestmannaeyjar
+8037;Keflavík ÍF;Iceland;1955-11-30;0;Hringbraut;108;230;Keflavík,
+8042;FC Inter Turku;Finland;1990-01-01;0;Hippoksentie;21;20720;Turku
+8043;Kokkolan Pallo-Veikot;Finland;1930-01-01;0;;;;
+8671;KF Vllaznia;Albania;1919-02-16;0;;;;
+8689;DWS Amsterdam;Netherlands;1907-10-11;0;Spieringhorn;3;1043;AA
+8780;Sligo Rovers;Ireland;1927-11-30;0;PO Box;275;Sligo,;Co
+9026;Glentoran FC;Northern Ireland;1882-01-01;0;Parkgate Drive, Dee;Street;BT4;1EW
+9211;Bohemian Football Club Dublin;Ireland;1890-09-06;0;Phibsborough;Phibsborough;Dublin;7
+9465;Petrolul Ploiesti;Romania;1924-01-01;0;Str. Stadionului, nr.;26;100173;Ploiești
+10442;Unirea Urziceni;Romania;1954-07-28;0;;;;
+10493;FC Kuusysi;Finland;1969-01-01;0;;;;
+10603;Floriana FC;Malta;1893-11-30;0;;;;
+10604;Hibernians FC;Malta;1930-11-30;0;Antoine De Paule Square;158;1260;Paola
+10625;Qarabağ Ağdam;Azerbaijan;1987-06-24;0;Sattar Bahlulzada;24;AZ1000;Agdam
+10690;Zorya Lugansk;Ukraine;1922-11-30;0;vul. Oboronna;4v;91033;Lugansk
+11912;FC Ararat Yerevan;Armenia;1935-05-10;0;Agatangeghos,;2;0010;Yerevan
+12346;FC Progrès Niederkorn;Luxembourg;1919-08-14;0;BP;161;4502;Niederkorn
+12460;Flamurtari FC;Albania;1923-03-23;0;Lagja;Pavarsia;9401;Vlorë
+13467;Racing FC Union Luxembourg;Luxembourg;2005-05-12;0;Rue Auguste;Lumière;1950;Luxemburg
+16786;Kjöbenhavns Boldklub (FCK II);Denmark;1876-04-26;0;Peter Bangs Vej;147;2000;Fredriksberg
+17149;Hamrun Spartans;Malta;1906-11-30;0;Triq il-Kbira San Guzepp;143;1015;Hamrun
+18774;Boldklubben 1903;Denmark;1903-06-02;0;Lyngbyvej;270;2900;Hellerup
+20924;Helsinki IFK;Finland;1897-10-15;0;Döbelninkatu 2 B 17;c;00260;Helsinki
+21532;Crusaders FC;Northern Ireland;1898-01-01;0; Shore;Road;BT15;3PL
+21598;Gwardia Warszawa;Poland;1948-01-01;0;Racławicka;132;02-634;Warszawa
+21945;Aris Bonneweg;Luxembourg;1921-11-30;0;;;;
+21955;Union Luxemburg;Luxembourg;1908-02-02;0;;;;
+22431;Stal Mielec;Poland;1939-04-10;0;ul. Solskiego;1;39-300;Mielec
+26752;SK Admira Vienna;Austria;1904-11-30;0;;;;
+31614;PFK Ludogorets Razgrad;Bulgaria;1945-01-01;0;Targovishtko;shose;7200;Razgrad

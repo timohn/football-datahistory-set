@@ -1,0 +1,1942 @@
+PlayerID;Position
+7;Right Midfield
+7;Right-Back
+19;Centre-Forward
+19;Right Midfield
+20;Defensive Midfield
+20;Right-Back
+24;Defensive Midfield
+24;Left-Back
+48;Left Winger
+48;Right Winger
+52;Centre-Back
+52;Defensive Midfield
+59;Central Midfield
+85;Right Winger
+85;Second Striker
+89;Central Midfield
+89;Left-Back
+94;Centre-Back
+94;Defensive Midfield
+113;Defensive Midfield
+113;Left Midfield
+130;Defensive Midfield
+130;Sweeper
+136;Attacking Midfield
+136;Centre-Forward
+142;Defensive Midfield
+154;Attacking Midfield
+154;Right Winger
+160;Left Midfield
+176;Left-Back
+183;Attacking Midfield
+197;Attacking Midfield
+197;Defensive Midfield
+222;Defensive Midfield
+222;Left Midfield
+231;Attacking Midfield
+231;Right Winger
+248;Central Midfield
+248;Centre-Back
+251;Central Midfield
+251;Right Midfield
+258;Right Winger
+258;Second Striker
+259;Left Winger
+270;Left-Back
+275;Right Midfield
+275;Right-Back
+284;Centre-Back
+285;Right-Back
+304;Attacking Midfield
+306;Attacking Midfield
+306;Left Winger
+310;Left Midfield
+313;Left Winger
+317;Right Midfield
+317;Right Winger
+323;Attacking Midfield
+323;Left Midfield
+325;Left-Back
+325;Right-Back
+353;Centre-Back
+353;Right-Back
+356;Left Winger
+356;Right Winger
+362;Left Midfield
+377;Left-Back
+377;Right Midfield
+411;Central Midfield
+411;Left-Back
+423;Right Midfield
+424;Central Midfield
+424;Left Midfield
+427;Left Midfield
+443;Defensive Midfield
+443;Sweeper
+471;Central Midfield
+471;Centre-Back
+497;Sweeper
+505;Attacking Midfield
+505;Centre-Forward
+535;Centre-Back
+535;Left Midfield
+536;Left-Back
+536;Right Midfield
+541;Sweeper
+549;Central Midfield
+576;Attacking Midfield
+612;Right Midfield
+612;Right-Back
+614;Attacking Midfield
+614;Centre-Back
+635;Centre-Forward
+635;Defensive Midfield
+644;Left Midfield
+644;Left-Back
+669;Defensive Midfield
+669;Sweeper
+679;Left Midfield
+680;Centre-Forward
+680;Left Winger
+698;Right-Back
+709;Defensive Midfield
+709;Right-Back
+742;Defensive Midfield
+746;Centre-Back
+746;Left Midfield
+749;Defensive Midfield
+749;Left-Back
+752;Central Midfield
+766;Right Midfield
+766;Right-Back
+768;Centre-Back
+768;Defensive Midfield
+773;Central Midfield
+773;Right Midfield
+788;Right Midfield
+788;Right Winger
+797;Centre-Back
+798;Attacking Midfield
+798;Centre-Forward
+802;Left Midfield
+802;Left-Back
+822;Centre-Forward
+822;Second Striker
+875;Centre-Back
+875;Defensive Midfield
+881;Attacking Midfield
+881;Defensive Midfield
+893;Defensive Midfield
+906;Defensive Midfield
+908;Centre-Forward
+908;Left Winger
+910;Left Winger
+910;Second Striker
+919;Central Midfield
+955;Right Midfield
+973;Right Midfield
+975;Attacking Midfield
+995;Right Midfield
+997;Defensive Midfield
+997;Left-Back
+999;Right-Back
+1000;Left-Back
+1000;Right-Back
+1007;Left Winger
+1007;Right Winger
+1041;Centre-Forward
+1134;Defensive Midfield
+1134;Left-Back
+1148;Attacking Midfield
+1148;Centre-Forward
+1163;Centre-Forward
+1163;Left Winger
+1179;Defensive Midfield
+1179;Left Midfield
+1243;Left-Back
+1260;Left Winger
+1260;Right Winger
+1273;Centre-Back
+1273;Defensive Midfield
+1281;Left-Back
+1317;Left Winger
+1356;Centre-Forward
+1356;Left Midfield
+1390;Left-Back
+1390;Right-Back
+1419;Right-Back
+1419;Sweeper
+1430;Centre-Back
+1432;Defensive Midfield
+1473;Centre-Back
+1473;Sweeper
+1490;Central Midfield
+1490;Left Midfield
+1521;Attacking Midfield
+1521;Left Midfield
+1635;Centre-Forward
+1774;Second Striker
+1844;Centre-Back
+1844;Right Midfield
+1861;Centre-Back
+1871;Centre-Back
+1871;Right-Back
+1895;Attacking Midfield
+1922;Left Midfield
+1922;Left-Back
+2012;Left Midfield
+2068;Left-Back
+2068;Right Midfield
+2074;Central Midfield
+2099;Defensive Midfield
+2166;Centre-Forward
+2166;Left Midfield
+2183;Right Midfield
+2211;Right Midfield
+2234;Left Midfield
+2234;Right Midfield
+2282;Centre-Back
+2288;Centre-Back
+2288;Defensive Midfield
+2478;Central Midfield
+2478;Defensive Midfield
+2535;Right Midfield
+2535;Right-Back
+2715;Attacking Midfield
+2742;Central Midfield
+2742;Left Winger
+2867;Central Midfield
+2867;Left Midfield
+2877;Left Winger
+2877;Second Striker
+2917;Centre-Forward
+2927;Centre-Back
+2928;Defensive Midfield
+2945;Defensive Midfield
+2947;Left Midfield
+2947;Right Midfield
+2949;Centre-Back
+2949;Left-Back
+2977;Attacking Midfield
+2977;Defensive Midfield
+2983;Centre-Forward
+2983;Defensive Midfield
+3060;Defensive Midfield
+3060;Right-Back
+3065;Left Midfield
+3065;Right-Back
+3073;Centre-Back
+3112;Second Striker
+3113;Centre-Back
+3116;Left Winger
+3129;Defensive Midfield
+3129;Sweeper
+3133;Attacking Midfield
+3133;Second Striker
+3142;Second Striker
+3145;Left Winger
+3145;Second Striker
+3152;Centre-Back
+3152;Left-Back
+3156;Left-Back
+3156;Right-Back
+3163;Attacking Midfield
+3173;Attacking Midfield
+3173;Left Midfield
+3183;Central Midfield
+3188;Left Winger
+3188;Right Winger
+3207;Left Winger
+3207;Second Striker
+3210;Right-Back
+3210;Sweeper
+3218;Central Midfield
+3218;Left Midfield
+3221;Defensive Midfield
+3237;Left Midfield
+3237;Left Winger
+3240;Right Winger
+3240;Second Striker
+3261;Attacking Midfield
+3261;Right Midfield
+3274;Central Midfield
+3274;Centre-Back
+3283;Left-Back
+3284;Centre-Forward
+3284;Right Midfield
+3288;Left-Back
+3312;Right-Back
+3335;Central Midfield
+3337;Left Winger
+3337;Right Winger
+3358;Central Midfield
+3411;Left Winger
+3411;Right Winger
+3413;Attacking Midfield
+3413;Left Winger
+3416;Central Midfield
+3418;Centre-Forward
+3418;Left Winger
+3449;Right-Back
+3474;Centre-Forward
+3474;Right Midfield
+3475;Attacking Midfield
+3475;Defensive Midfield
+3485;Central Midfield
+3508;Left Midfield
+3515;Central Midfield
+3519;Right Midfield
+3568;Centre-Back
+3573;Left-Back
+3585;Left Winger
+3585;Right Winger
+3601;Central Midfield
+3601;Defensive Midfield
+3621;Left Winger
+3624;Central Midfield
+3648;Right-Back
+3683;Attacking Midfield
+3683;Centre-Forward
+3686;Left-Back
+3691;Central Midfield
+3727;Defensive Midfield
+3747;Central Midfield
+3747;Left-Back
+3765;Centre-Back
+3765;Defensive Midfield
+3784;Central Midfield
+3784;Centre-Back
+3789;Defensive Midfield
+3789;Left-Back
+3809;Central Midfield
+3811;Centre-Back
+3814;Central Midfield
+3814;Defensive Midfield
+3836;Attacking Midfield
+3842;Centre-Back
+3842;Right Winger
+3865;Left Midfield
+3865;Right Midfield
+3877;Right Midfield
+3887;Attacking Midfield
+3907;Right-Back
+3915;Right Midfield
+3915;Right Winger
+3920;Left Midfield
+3925;Central Midfield
+3940;Defensive Midfield
+3940;Right Midfield
+3990;Central Midfield
+3990;Centre-Back
+4009;Left Winger
+4009;Right Winger
+4011;Right-Back
+4046;Left-Back
+4060;Right-Back
+4066;Left Winger
+4071;Central Midfield
+4071;Left Midfield
+4114;Right Winger
+4127;Central Midfield
+4127;Left Midfield
+4128;Left Midfield
+4135;Central Midfield
+4135;Left-Back
+4139;Defensive Midfield
+4139;Right Midfield
+4153;Attacking Midfield
+4203;Defensive Midfield
+4227;Central Midfield
+4240;Attacking Midfield
+4240;Defensive Midfield
+4298;Defensive Midfield
+4328;Left Winger
+4328;Second Striker
+4338;Centre-Back
+4338;Left Midfield
+4376;Central Midfield
+4376;Right Midfield
+4400;Centre-Forward
+4427;Attacking Midfield
+4427;Left Midfield
+4442;Right Midfield
+4442;Right-Back
+4500;Left Midfield
+4557;Attacking Midfield
+4557;Left Winger
+4580;Right Midfield
+4588;Left Midfield
+4610;Right-Back
+4644;Centre-Back
+4644;Defensive Midfield
+4659;Defensive Midfield
+4702;Central Midfield
+4710;Centre-Back
+4710;Right Midfield
+4715;Central Midfield
+4715;Right Midfield
+4720;Defensive Midfield
+4720;Left-Back
+4735;Sweeper
+4744;Defensive Midfield
+4744;Right-Back
+4825;Defensive Midfield
+4858;Centre-Forward
+4888;Central Midfield
+4888;Defensive Midfield
+4906;Central Midfield
+4906;Defensive Midfield
+4913;Attacking Midfield
+4977;Right Winger
+4977;Second Striker
+5001;Left-Back
+5003;Right Midfield
+5117;Sweeper
+5182;Attacking Midfield
+5189;Attacking Midfield
+5189;Left Midfield
+5195;Centre-Forward
+5198;Centre-Back
+5198;Left Midfield
+5202;Centre-Back
+5202;Right Midfield
+5214;Left Winger
+5214;Right Winger
+5249;Defensive Midfield
+5299;Second Striker
+5311;Left Midfield
+5325;Left Midfield
+5329;Left Winger
+5329;Right Winger
+5340;Right-Back
+5357;Left Winger
+5357;Second Striker
+5418;Right-Back
+5428;Central Midfield
+5428;Centre-Back
+5429;Right Winger
+5464;Attacking Midfield
+5464;Second Striker
+5480;Central Midfield
+5480;Defensive Midfield
+5506;Left-Back
+5506;Right-Back
+5527;Centre-Back
+5531;Right-Back
+5651;Right Winger
+5657;Second Striker
+5668;Left-Back
+5674;Central Midfield
+5674;Centre-Back
+5680;Right Winger
+5683;Second Striker
+5698;Attacking Midfield
+5698;Central Midfield
+5748;Central Midfield
+5748;Centre-Back
+5749;Right-Back
+5751;Left Midfield
+5751;Right-Back
+5752;Defensive Midfield
+5758;Defensive Midfield
+5758;Left Midfield
+5759;Defensive Midfield
+5796;Attacking Midfield
+5796;Left Winger
+5803;Centre-Back
+5819;Left Winger
+5819;Left-Back
+5832;Centre-Back
+5835;Right-Back
+5837;Centre-Back
+5837;Right Midfield
+5838;Right Midfield
+5838;Right-Back
+5850;Left Midfield
+5850;Right Midfield
+5860;Right-Back
+5875;Central Midfield
+5884;Centre-Back
+5896;Defensive Midfield
+5919;Left Winger
+5919;Right Midfield
+5922;Central Midfield
+5922;Left Midfield
+5941;Centre-Back
+5941;Right Midfield
+5944;Sweeper
+5953;Central Midfield
+5953;Left Midfield
+5990;Centre-Back
+5990;Right-Back
+5997;Right Winger
+6000;Defensive Midfield
+6002;Central Midfield
+6002;Centre-Back
+6036;Right-Back
+6054;Left Midfield
+6054;Second Striker
+6065;Right-Back
+6066;Left-Back
+6076;Left Winger
+6076;Second Striker
+6077;Second Striker
+6089;Central Midfield
+6106;Attacking Midfield
+6107;Defensive Midfield
+6112;Right Midfield
+6112;Right Winger
+6134;Central Midfield
+6156;Left Midfield
+6156;Right-Back
+6299;Second Striker
+6349;Central Midfield
+6349;Left Midfield
+6367;Centre-Back
+6367;Defensive Midfield
+6396;Central Midfield
+6396;Left Midfield
+6419;Right Midfield
+6421;Second Striker
+6503;Attacking Midfield
+6503;Defensive Midfield
+6559;Defensive Midfield
+6569;Left Winger
+6569;Second Striker
+6571;Central Midfield
+6571;Right Midfield
+6589;Right Winger
+6589;Right-Back
+6651;Right-Back
+6722;Defensive Midfield
+6746;Left Midfield
+6751;Right-Back
+6800;Left Winger
+6800;Right Winger
+6814;Right Winger
+6832;Centre-Back
+6832;Left-Back
+6847;Left Winger
+6847;Right Winger
+6857;Centre-Back
+6860;Left-Back
+6878;Central Midfield
+6878;Right Midfield
+6888;Left Winger
+6888;Right Winger
+6892;Left Winger
+6892;Right Winger
+6896;Left-Back
+6897;Central Midfield
+6897;Centre-Back
+6900;Second Striker
+6963;Central Midfield
+6985;Left-Back
+7002;Central Midfield
+7018;Right Winger
+7022;Central Midfield
+7022;Centre-Back
+7024;Left-Back
+7049;Left-Back
+7049;Right-Back
+7057;Left Midfield
+7057;Left-Back
+7069;Central Midfield
+7072;Centre-Back
+7072;Right-Back
+7098;Attacking Midfield
+7164;Left Midfield
+7191;Defensive Midfield
+7191;Right Winger
+7195;Defensive Midfield
+7195;Sweeper
+7236;Defensive Midfield
+7236;Left-Back
+7266;Attacking Midfield
+7266;Defensive Midfield
+7315;Defensive Midfield
+7315;Right-Back
+7318;Left-Back
+7349;Centre-Forward
+7349;Left Winger
+7364;Attacking Midfield
+7446;Sweeper
+7464;Left-Back
+7486;Left Midfield
+7496;Right Midfield
+7506;Second Striker
+7518;Defensive Midfield
+7518;Left Midfield
+7540;Sweeper
+7555;Central Midfield
+7572;Defensive Midfield
+7575;Central Midfield
+7575;Centre-Back
+7579;Left Winger
+7579;Right Winger
+7581;Attacking Midfield
+7608;Second Striker
+7630;Second Striker
+7633;Central Midfield
+7636;Left Winger
+7636;Second Striker
+7654;Defensive Midfield
+7737;Central Midfield
+7776;Left-Back
+7776;Right-Back
+7783;Right Midfield
+7784;Central Midfield
+7844;Attacking Midfield
+7844;Left Winger
+7864;Left Winger
+7864;Right Winger
+7891;Attacking Midfield
+7891;Right Midfield
+7897;Centre-Forward
+7897;Second Striker
+7912;Left Winger
+7912;Right Midfield
+7920;Attacking Midfield
+7920;Second Striker
+7925;Defensive Midfield
+7925;Left Midfield
+7927;Central Midfield
+7927;Centre-Back
+8038;Right-Back
+8042;Defensive Midfield
+8042;Right Midfield
+8043;Centre-Back
+8043;Left Midfield
+8050;Left Midfield
+8050;Left Winger
+8078;Left-Back
+8124;Attacking Midfield
+8124;Centre-Forward
+8143;Defensive Midfield
+8143;Left Midfield
+8194;Left Winger
+8194;Second Striker
+8204;Left Winger
+8204;Second Striker
+8207;Centre-Back
+8207;Right Midfield
+8322;Central Midfield
+8527;Centre-Back
+8596;Defensive Midfield
+8596;Sweeper
+8721;Attacking Midfield
+8721;Left Midfield
+8902;Centre-Back
+9030;Defensive Midfield
+9030;Sweeper
+9171;Attacking Midfield
+9171;Right Winger
+9210;Defensive Midfield
+9498;Defensive Midfield
+9544;Central Midfield
+9552;Centre-Forward
+9552;Second Striker
+9590;Attacking Midfield
+9596;Centre-Forward
+9596;Right Winger
+9630;Left Midfield
+9630;Left-Back
+9635;Left Midfield
+9635;Left-Back
+9637;Attacking Midfield
+9662;Left Midfield
+9662;Left Winger
+9675;Left-Back
+9679;Attacking Midfield
+9679;Second Striker
+9695;Left-Back
+9714;Central Midfield
+9714;Left Midfield
+9763;Defensive Midfield
+9763;Left Midfield
+9778;Left-Back
+9782;Right-Back
+9788;Central Midfield
+9788;Centre-Back
+9806;Centre-Forward
+9806;Second Striker
+9812;Right-Back
+9821;Central Midfield
+9823;Attacking Midfield
+9857;Attacking Midfield
+9871;Defensive Midfield
+9871;Left-Back
+10134;Left Winger
+10134;Left-Back
+10251;Central Midfield
+10298;Attacking Midfield
+10298;Left Midfield
+10318;Defensive Midfield
+10378;Right Winger
+10378;Right-Back
+10566;Central Midfield
+10566;Defensive Midfield
+11670;Right-Back
+12019;Left Winger
+12019;Right Midfield
+12053;Centre-Forward
+12053;Defensive Midfield
+12368;Left Midfield
+12368;Right Winger
+12385;Attacking Midfield
+12385;Defensive Midfield
+12514;Left Winger
+12514;Right Winger
+12567;Attacking Midfield
+12567;Left Winger
+12622;Second Striker
+12665;Right Midfield
+12665;Right-Back
+12723;Centre-Back
+12749;Right Midfield
+12749;Second Striker
+12765;Defensive Midfield
+12812;Attacking Midfield
+12812;Defensive Midfield
+12822;Defensive Midfield
+12822;Right Midfield
+12834;Right-Back
+12841;Left Winger
+12847;Centre-Back
+12992;Centre-Back
+13001;Centre-Back
+13012;Defensive Midfield
+13051;Defensive Midfield
+13094;Centre-Forward
+13120;Central Midfield
+13120;Left Winger
+13139;Left Midfield
+13139;Left Winger
+13152;Centre-Forward
+13159;Defensive Midfield
+13159;Right Midfield
+13160;Centre-Back
+13160;Left Midfield
+13161;Right-Back
+13177;Attacking Midfield
+13177;Left Winger
+13211;Left-Back
+13211;Right-Back
+13331;Central Midfield
+13348;Left Winger
+13348;Second Striker
+13398;Central Midfield
+13398;Left-Back
+13519;Centre-Back
+13525;Centre-Back
+13525;Left-Back
+13535;Attacking Midfield
+13808;Right Midfield
+13823;Defensive Midfield
+13917;Central Midfield
+13952;Left Winger
+13952;Second Striker
+13960;Centre-Back
+13962;Attacking Midfield
+13962;Defensive Midfield
+13995;Sweeper
+14026;Central Midfield
+14026;Right Midfield
+14052;Centre-Back
+14052;Right-Back
+14062;Central Midfield
+14062;Right Midfield
+14063;Left-Back
+14107;Left Winger
+14107;Second Striker
+14382;Attacking Midfield
+14382;Defensive Midfield
+14515;Right Midfield
+14515;Right Winger
+14829;Central Midfield
+14829;Centre-Back
+14834;Right-Back
+14892;Centre-Back
+14894;Centre-Forward
+14894;Defensive Midfield
+14906;Centre-Back
+14921;Left Winger
+14921;Right Winger
+14944;Centre-Back
+14945;Left Winger
+14945;Right Winger
+14970;Centre-Back
+14970;Right Midfield
+15020;Left Midfield
+15031;Centre-Back
+15033;Attacking Midfield
+15033;Right Winger
+15036;Right Midfield
+15059;Right Winger
+15084;Second Striker
+15091;Left Midfield
+15098;Centre-Back
+15098;Defensive Midfield
+15109;Sweeper
+15117;Attacking Midfield
+15117;Defensive Midfield
+15133;Attacking Midfield
+15152;Attacking Midfield
+15173;Defensive Midfield
+15209;Attacking Midfield
+15209;Left Midfield
+15306;Attacking Midfield
+15306;Right Winger
+15328;Attacking Midfield
+15328;Right Winger
+15372;Attacking Midfield
+15372;Defensive Midfield
+15373;Attacking Midfield
+15373;Second Striker
+15435;Right-Back
+15445;Attacking Midfield
+15445;Defensive Midfield
+15453;Left-Back
+15453;Right Midfield
+15478;Attacking Midfield
+15550;Right Midfield
+15550;Second Striker
+15561;Attacking Midfield
+15561;Left Midfield
+15629;Attacking Midfield
+15777;Right Midfield
+15777;Second Striker
+15855;Centre-Back
+15858;Centre-Forward
+15858;Right Winger
+15870;Left Winger
+15870;Right Winger
+15876;Right-Back
+15982;Attacking Midfield
+16019;Defensive Midfield
+16019;Right-Back
+16119;Centre-Forward
+16119;Right-Back
+16160;Centre-Back
+16167;Left Winger
+16482;Right Midfield
+16487;Defensive Midfield
+16487;Left-Back
+16510;Central Midfield
+16610;Centre-Back
+16713;Sweeper
+16745;Second Striker
+16874;Right-Back
+16907;Right Winger
+16975;Centre-Back
+16975;Right Midfield
+17064;Sweeper
+17174;Central Midfield
+17174;Right-Back
+17212;Defensive Midfield
+17277;Defensive Midfield
+17409;Centre-Back
+17947;Left Midfield
+17947;Left Winger
+17979;Central Midfield
+17979;Left Midfield
+18014;Central Midfield
+18014;Right Midfield
+18324;Attacking Midfield
+18324;Defensive Midfield
+18484;Defensive Midfield
+18873;Defensive Midfield
+18873;Left Midfield
+19390;Right Midfield
+19440;Right Midfield
+19440;Second Striker
+19641;Centre-Back
+19844;Central Midfield
+19844;Centre-Back
+19846;Centre-Back
+19894;Right Midfield
+20730;Central Midfield
+20734;Left-Back
+20739;Right Winger
+20739;Second Striker
+20806;Left-Back
+20806;Right Midfield
+20844;Attacking Midfield
+20904;Left Winger
+20904;Left-Back
+21024;Central Midfield
+21033;Central Midfield
+21074;Central Midfield
+21074;Left Winger
+21094;Central Midfield
+21094;Left Winger
+21116;Left Midfield
+21156;Left Midfield
+21184;Right-Back
+21227;Left-Back
+21230;Attacking Midfield
+21230;Defensive Midfield
+21645;Central Midfield
+21645;Left Midfield
+21661;Centre-Back
+21685;Attacking Midfield
+21697;Right-Back
+21701;Central Midfield
+21788;Central Midfield
+21788;Right Midfield
+21792;Left-Back
+21792;Right Midfield
+21799;Central Midfield
+21799;Left Midfield
+21826;Left-Back
+21888;Left-Back
+21955;Central Midfield
+21955;Left Midfield
+21986;Defensive Midfield
+22057;Central Midfield
+22082;Right Midfield
+22095;Right-Back
+22099;Right-Back
+22122;Attacking Midfield
+22122;Defensive Midfield
+22218;Right Winger
+22218;Second Striker
+22235;Defensive Midfield
+22275;Second Striker
+22455;Left Winger
+22455;Second Striker
+22466;Left Midfield
+22485;Right-Back
+22493;Central Midfield
+22497;Left Midfield
+22497;Right Midfield
+22726;Centre-Back
+22811;Right Midfield
+22841;Left-Back
+22841;Right-Back
+22855;Left Midfield
+23012;Centre-Forward
+23012;Right Midfield
+23106;Left Midfield
+23106;Left-Back
+23170;Left-Back
+23194;Left Winger
+23194;Second Striker
+23306;Defensive Midfield
+23368;Second Striker
+23623;Attacking Midfield
+23720;Defensive Midfield
+23721;Attacking Midfield
+23721;Central Midfield
+23759;Attacking Midfield
+23898;Left-Back
+24277;Defensive Midfield
+24296;Right-Back
+24321;Central Midfield
+24321;Centre-Back
+24384;Left-Back
+24456;Centre-Back
+24473;Right-Back
+24538;Left Midfield
+24538;Right Midfield
+24573;Centre-Back
+24605;Centre-Forward
+24625;Sweeper
+24703;Attacking Midfield
+24972;Right Midfield
+24986;Right Midfield
+25003;Defensive Midfield
+25043;Left-Back
+25068;Central Midfield
+25089;Left Midfield
+25135;Second Striker
+25267;Left Midfield
+25333;Sweeper
+25356;Second Striker
+25449;Centre-Forward
+25449;Left Winger
+25636;Right-Back
+25918;Left-Back
+25918;Right Midfield
+25997;Defensive Midfield
+26052;Attacking Midfield
+26052;Right Midfield
+26175;Right-Back
+26204;Centre-Back
+26362;Left Winger
+26547;Defensive Midfield
+26645;Centre-Back
+26667;Defensive Midfield
+26687;Centre-Forward
+26752;Central Midfield
+26752;Defensive Midfield
+26884;Centre-Back
+26884;Right-Back
+26947;Central Midfield
+26947;Centre-Back
+27010;Defensive Midfield
+27164;Right Winger
+27272;Defensive Midfield
+27350;Left-Back
+27489;Right-Back
+27616;Centre-Back
+27616;Right Midfield
+27761;Second Striker
+27806;Left Winger
+27831;Left-Back
+27831;Right-Back
+27865;Central Midfield
+27865;Centre-Back
+28758;Defensive Midfield
+28852;Left Winger
+28852;Right Midfield
+28873;Left Midfield
+29186;Left Winger
+29253;Defensive Midfield
+29253;Left-Back
+29282;Attacking Midfield
+29335;Right Midfield
+29425;Right-Back
+29450;Left Midfield
+29556;Left Midfield
+29913;Attacking Midfield
+29913;Left-Back
+30537;Centre-Forward
+30576;Attacking Midfield
+30648;Central Midfield
+30691;Left Winger
+30691;Right Winger
+30932;Right Winger
+30932;Second Striker
+30936;Centre-Back
+30936;Left-Back
+31054;Attacking Midfield
+31054;Right Midfield
+31340;Attacking Midfield
+31340;Left Midfield
+32182;Attacking Midfield
+32182;Second Striker
+32253;Centre-Back
+32864;Right Midfield
+32864;Right Winger
+32990;Central Midfield
+32997;Central Midfield
+33077;Left-Back
+33358;Attacking Midfield
+34001;Left Midfield
+34015;Centre-Back
+34356;Left Winger
+34356;Right Winger
+34404;Centre-Forward
+34432;Centre-Forward
+34432;Defensive Midfield
+34502;Centre-Forward
+34651;Left Midfield
+34759;Left-Back
+35032;Second Striker
+35054;Defensive Midfield
+35054;Left Midfield
+35371;Right Midfield
+35434;Second Striker
+35656;Defensive Midfield
+35894;Right Winger
+35894;Second Striker
+36338;Centre-Forward
+36338;Right-Back
+37475;Centre-Forward
+37475;Left Winger
+37844;Attacking Midfield
+38960;Defensive Midfield
+39695;Left-Back
+40242;Left Midfield
+40975;Left Winger
+40975;Right Winger
+42049;Centre-Back
+42116;Right Winger
+42116;Second Striker
+42640;Right-Back
+42659;Right-Back
+43298;Central Midfield
+43339;Defensive Midfield
+43420;Centre-Back
+43583;Central Midfield
+43583;Centre-Back
+44091;Centre-Forward
+44091;Right Winger
+44282;Defensive Midfield
+44755;Centre-Back
+45156;Defensive Midfield
+45884;Central Midfield
+45884;Right Midfield
+46637;Attacking Midfield
+46667;Centre-Back
+47454;Centre-Forward
+48040;Left Midfield
+48040;Second Striker
+48259;Centre-Back
+48339;Centre-Back
+48882;Left-Back
+49014;Defensive Midfield
+50444;Central Midfield
+50457;Left Midfield
+50816;Attacking Midfield
+51776;Centre-Back
+51776;Defensive Midfield
+55056;Sweeper
+55057;Right-Back
+56139;Left-Back
+56240;Right Midfield
+56626;Left Winger
+57408;Centre-Back
+57476;Left Midfield
+57576;Defensive Midfield
+58249;Left-Back
+58741;Left Winger
+59273;Centre-Back
+59353;Attacking Midfield
+59353;Central Midfield
+59754;Right Midfield
+59754;Right-Back
+60526;Left-Back
+60526;Right-Back
+60899;Right Midfield
+60899;Right Winger
+60962;Left Midfield
+60962;Right Midfield
+62619;Left-Back
+62619;Sweeper
+63134;Attacking Midfield
+63134;Centre-Forward
+65919;Right-Back
+67378;Right Winger
+67378;Second Striker
+68185;Centre-Back
+68185;Right-Back
+68204;Attacking Midfield
+72351;Attacking Midfield
+72351;Left Winger
+72381;Centre-Back
+72381;Sweeper
+72463;Attacking Midfield
+72497;Attacking Midfield
+72497;Left Winger
+76132;Defensive Midfield
+76526;Left-Back
+77151;Left Midfield
+77451;Centre-Back
+78453;Second Striker
+78768;Central Midfield
+79093;Centre-Back
+79093;Defensive Midfield
+79568;Centre-Back
+79568;Right Midfield
+79969;Left Winger
+79969;Right Winger
+80701;Centre-Back
+80701;Left Midfield
+81071;Left Midfield
+81642;Central Midfield
+81642;Sweeper
+81644;Defensive Midfield
+81644;Sweeper
+81749;Left Midfield
+82656;Left Winger
+83995;Attacking Midfield
+83995;Right Midfield
+84007;Sweeper
+84063;Left-Back
+84063;Sweeper
+84093;Defensive Midfield
+84557;Left Winger
+84557;Right Winger
+84649;Attacking Midfield
+84649;Sweeper
+84673;Sweeper
+84686;Sweeper
+84688;Defensive Midfield
+84692;Centre-Forward
+84707;Left Midfield
+84736;Centre-Back
+84852;Left Midfield
+85469;Right Winger
+85925;Attacking Midfield
+85925;Centre-Forward
+85980;Attacking Midfield
+88122;Central Midfield
+88122;Centre-Back
+88150;Central Midfield
+89153;Central Midfield
+89153;Centre-Back
+89230;Second Striker
+89545;Central Midfield
+89545;Left Midfield
+89555;Sweeper
+89669;Second Striker
+89891;Left-Back
+89891;Sweeper
+89937;Sweeper
+89965;Second Striker
+90149;Attacking Midfield
+90149;Left Midfield
+90238;Left Midfield
+90262;Sweeper
+91458;Left-Back
+91458;Right Midfield
+91652;Centre-Back
+91666;Central Midfield
+91666;Left-Back
+91901;Central Midfield
+91901;Left-Back
+92085;Left Winger
+92135;Right Midfield
+92135;Right Winger
+92201;Central Midfield
+92201;Centre-Forward
+92207;Central Midfield
+92207;Second Striker
+92210;Centre-Back
+92210;Defensive Midfield
+92229;Centre-Back
+92230;Attacking Midfield
+92230;Left Midfield
+92233;Left-Back
+92236;Sweeper
+92237;Central Midfield
+92237;Left-Back
+92240;Attacking Midfield
+92240;Second Striker
+92241;Right-Back
+92241;Sweeper
+92242;Centre-Back
+92242;Left Midfield
+92269;Centre-Forward
+92269;Left Winger
+92271;Centre-Back
+92271;Sweeper
+92276;Attacking Midfield
+92276;Second Striker
+92278;Right-Back
+92282;Left Midfield
+93002;Attacking Midfield
+93002;Central Midfield
+93262;Right Midfield
+94042;Attacking Midfield
+94064;Sweeper
+94114;Sweeper
+94986;Centre-Back
+95072;Central Midfield
+95072;Centre-Forward
+95157;Attacking Midfield
+95157;Defensive Midfield
+95161;Central Midfield
+95269;Sweeper
+95400;Left Midfield
+95400;Left-Back
+95441;Central Midfield
+95496;Left Winger
+95515;Right Midfield
+95527;Left Midfield
+95534;Second Striker
+95627;Second Striker
+95886;Defensive Midfield
+96084;Sweeper
+96263;Centre-Forward
+96263;Second Striker
+96622;Attacking Midfield
+96622;Defensive Midfield
+96639;Right Midfield
+96641;Centre-Forward
+96641;Left Midfield
+96657;Centre-Forward
+96700;Central Midfield
+96975;Right Midfield
+97033;Sweeper
+97070;Second Striker
+97080;Centre-Forward
+97160;Centre-Back
+97160;Defensive Midfield
+97253;Defensive Midfield
+97253;Sweeper
+97288;Attacking Midfield
+97288;Defensive Midfield
+97324;Left Midfield
+97324;Right Winger
+97599;Second Striker
+97676;Defensive Midfield
+97760;Defensive Midfield
+97898;Defensive Midfield
+97898;Right Midfield
+97900;Centre-Back
+97902;Right Midfield
+98230;Defensive Midfield
+99015;Centre-Forward
+99651;Second Striker
+99655;Attacking Midfield
+99655;Centre-Forward
+99665;Defensive Midfield
+99711;Centre-Forward
+99725;Central Midfield
+99725;Defensive Midfield
+99936;Left Winger
+99936;Right Winger
+99988;Right Winger
+100533;Second Striker
+100743;Attacking Midfield
+100743;Right Midfield
+100932;Centre-Back
+100932;Left Midfield
+100970;Defensive Midfield
+101040;Left Midfield
+101040;Right Midfield
+101052;Centre-Back
+101052;Right Midfield
+101071;Central Midfield
+101091;Attacking Midfield
+101091;Central Midfield
+101101;Centre-Back
+101113;Right Midfield
+101113;Right-Back
+101115;Centre-Back
+101115;Sweeper
+101134;Left Winger
+101134;Right Midfield
+101266;Central Midfield
+101300;Defensive Midfield
+101323;Left Winger
+101323;Right Midfield
+101325;Centre-Back
+101380;Sweeper
+101390;Left Midfield
+101886;Second Striker
+101901;Right Midfield
+102018;Centre-Back
+102018;Left-Back
+102020;Attacking Midfield
+102020;Centre-Forward
+102022;Left Midfield
+102022;Left Winger
+102081;Left-Back
+102150;Right Winger
+102292;Centre-Back
+102292;Defensive Midfield
+102313;Sweeper
+102473;Left Midfield
+102473;Right Midfield
+102474;Central Midfield
+102474;Left Midfield
+102475;Central Midfield
+102475;Right Midfield
+102482;Centre-Back
+102482;Left-Back
+102505;Right Midfield
+102505;Right Winger
+102507;Centre-Forward
+102507;Left Midfield
+102509;Left-Back
+102588;Central Midfield
+102588;Right-Back
+102593;Defensive Midfield
+102593;Right Midfield
+103214;Right-Back
+103560;Central Midfield
+103653;Attacking Midfield
+103728;Central Midfield
+103757;Centre-Back
+103757;Defensive Midfield
+103812;Sweeper
+104049;Attacking Midfield
+104049;Centre-Forward
+104884;Centre-Back
+104897;Attacking Midfield
+104897;Left Midfield
+105179;Right Winger
+105179;Right-Back
+106220;Centre-Back
+106893;Right-Back
+106965;Centre-Back
+106981;Central Midfield
+107144;Centre-Back
+107144;Right-Back
+107149;Central Midfield
+107179;Central Midfield
+107179;Right-Back
+107196;Centre-Back
+107196;Defensive Midfield
+107229;Defensive Midfield
+107229;Left Winger
+107238;Left-Back
+107448;Left Midfield
+107860;Centre-Back
+108135;Centre-Forward
+108707;Attacking Midfield
+108993;Central Midfield
+109415;Left-Back
+109415;Sweeper
+109492;Central Midfield
+109493;Central Midfield
+109493;Defensive Midfield
+109758;Defensive Midfield
+111104;Right Midfield
+112821;Centre-Forward
+112821;Left Winger
+114585;Central Midfield
+114585;Right-Back
+114998;Right Midfield
+114998;Right-Back
+115056;Attacking Midfield
+115056;Central Midfield
+115889;Left Midfield
+116128;Left Midfield
+116133;Attacking Midfield
+116137;Sweeper
+116138;Attacking Midfield
+116138;Left-Back
+116744;Central Midfield
+116744;Right-Back
+116852;Attacking Midfield
+116852;Second Striker
+116986;Right-Back
+117222;Second Striker
+117233;Left-Back
+117240;Defensive Midfield
+117240;Left-Back
+117247;Right-Back
+117405;Centre-Back
+117486;Right-Back
+117486;Sweeper
+117493;Central Midfield
+117496;Right Winger
+117601;Central Midfield
+117601;Sweeper
+117609;Defensive Midfield
+117755;Centre-Back
+117755;Left Midfield
+117765;Second Striker
+117777;Centre-Back
+118147;Centre-Forward
+118147;Left Winger
+118252;Centre-Back
+118339;Left Winger
+119863;Centre-Back
+119947;Centre-Back
+120314;Left Midfield
+120314;Left Winger
+120375;Central Midfield
+120375;Left Midfield
+120380;Second Striker
+120381;Right-Back
+120381;Sweeper
+120385;Centre-Back
+120385;Left-Back
+120392;Right Winger
+120392;Second Striker
+120410;Defensive Midfield
+120475;Centre-Back
+120507;Defensive Midfield
+120581;Left Midfield
+121066;Second Striker
+121092;Left Midfield
+121092;Left-Back
+121158;Right Winger
+122746;Left Winger
+125144;Defensive Midfield
+126890;Sweeper
+127165;Defensive Midfield
+127165;Sweeper
+127716;Left Winger
+128883;Attacking Midfield
+128892;Left Midfield
+129264;Centre-Back
+129264;Defensive Midfield
+130289;Defensive Midfield
+130289;Right Midfield
+131536;Defensive Midfield
+132395;Centre-Back
+132395;Left Midfield
+132774;Attacking Midfield
+132774;Right Midfield
+133656;Right Midfield
+133804;Defensive Midfield
+133804;Left Midfield
+133938;Centre-Back
+133938;Right Midfield
+133980;Central Midfield
+134926;Centre-Back
+135091;Right Winger
+135093;Attacking Midfield
+135093;Left Winger
+135096;Centre-Forward
+135096;Left Winger
+135104;Left Winger
+135104;Second Striker
+135272;Left Midfield
+135744;Attacking Midfield
+135744;Second Striker
+135782;Centre-Back
+135782;Right-Back
+135800;Right Midfield
+135911;Right-Back
+136505;Central Midfield
+138715;Left Midfield
+138715;Left-Back
+139737;Centre-Back
+142153;Second Striker
+142521;Right-Back
+142687;Left Winger
+142694;Centre-Back
+142694;Defensive Midfield
+142702;Centre-Forward
+142884;Attacking Midfield
+142884;Defensive Midfield
+142889;Centre-Back
+142896;Sweeper
+142978;Attacking Midfield
+142978;Centre-Forward
+144476;Left Midfield
+145124;Left Midfield
+145267;Defensive Midfield
+145524;Left Winger
+145524;Second Striker
+148020;Centre-Back
+148257;Centre-Back
+148257;Right-Back
+148260;Central Midfield
+148260;Left Winger
+148378;Centre-Back
+148378;Defensive Midfield
+148408;Defensive Midfield
+148720;Right Midfield
+148935;Left Midfield
+149236;Centre-Back
+149236;Left Midfield
+149945;Centre-Back
+150471;Attacking Midfield
+150471;Left Winger
+150541;Right Winger
+150633;Centre-Forward
+150702;Centre-Forward
+150843;Centre-Back
+151178;Left Midfield
+151476;Left Midfield
+151891;Defensive Midfield
+151945;Centre-Back
+151955;Right Winger
+151994;Central Midfield
+151994;Right-Back
+152300;Central Midfield
+152324;Central Midfield
+152380;Left-Back
+152448;Attacking Midfield
+152448;Right Winger
+152762;Left Winger
+152762;Right Winger
+153942;Central Midfield
+154243;Right-Back
+154592;Left Midfield
+154592;Right Midfield
+154912;Centre-Back
+155753;Defensive Midfield
+155753;Sweeper
+156160;Attacking Midfield
+156160;Centre-Back
+156174;Central Midfield
+156992;Defensive Midfield
+158081;Centre-Back
+162724;Defensive Midfield
+163501;Attacking Midfield
+163501;Defensive Midfield
+165411;Right Midfield
+165411;Right Winger
+166748;Right Winger
+166865;Centre-Back
+167243;Central Midfield
+167856;Left Winger
+167997;Defensive Midfield
+168571;Central Midfield
+169337;Centre-Back
+169384;Centre-Back
+170711;Centre-Back
+170732;Defensive Midfield
+170732;Left Midfield
+171364;Right Midfield
+171364;Right-Back
+171987;Second Striker
+172207;Centre-Back
+172222;Centre-Back
+172222;Right-Back
+172231;Central Midfield
+172231;Right Winger
+172374;Right-Back
+172793;Sweeper
+173531;Right Midfield
+173531;Second Striker
+173538;Left Midfield
+173538;Left Winger
+173662;Left-Back
+173685;Right-Back
+173713;Attacking Midfield
+173713;Left Midfield
+174458;Left Midfield
+174458;Left-Back
+175584;Left Midfield
+175871;Central Midfield
+175871;Left Midfield
+176018;Right-Back
+176045;Left-Back
+176085;Central Midfield
+176086;Right Winger
+176091;Left-Back
+176096;Centre-Back
+176219;Central Midfield
+176364;Second Striker
+176394;Centre-Forward
+176518;Right Winger
+176689;Defensive Midfield
+176689;Left Midfield
+176722;Centre-Back
+176722;Right-Back
+176748;Right Winger
+176931;Right-Back
+177144;Right-Back
+177218;Right Winger
+177223;Defensive Midfield
+177253;Central Midfield
+177606;Left Midfield
+178675;Defensive Midfield
+178675;Second Striker
+178683;Second Striker
+178769;Central Midfield
+178780;Centre-Back
+178923;Left Winger
+178923;Right Midfield
+179176;Sweeper
+179279;Centre-Back
+179292;Sweeper
+179913;Centre-Back
+180079;Right Winger
+180130;Defensive Midfield
+180248;Defensive Midfield
+180284;Right Winger
+180284;Right-Back
+180289;Left Midfield
+180301;Attacking Midfield
+180301;Centre-Forward
+180676;Second Striker
+180729;Central Midfield
+181054;Left-Back
+181756;Central Midfield
+181881;Attacking Midfield
+181881;Left Winger
+182011;Defensive Midfield
+182809;Sweeper
+183552;Right Midfield
+184364;Defensive Midfield
+186321;Sweeper
+187705;Defensive Midfield
+187705;Left Midfield
+187721;Centre-Forward
+187721;Left Winger
+187733;Left-Back
+188209;Left-Back
+189167;Right-Back
+189172;Centre-Back
+193793;Central Midfield
+193793;Centre-Forward
+196457;Defensive Midfield
+197172;Left Winger
+197252;Right Midfield
+200632;Defensive Midfield
+203624;Central Midfield
+203624;Centre-Back
+205280;Left Winger
+205280;Left-Back
+206900;Centre-Back
+207636;Attacking Midfield
+208527;Right-Back
+209049;Right Midfield
+209530;Centre-Back
+209544;Defensive Midfield
+209856;Central Midfield
+209856;Defensive Midfield
+210273;Centre-Back
+210565;Centre-Forward
+212756;Attacking Midfield
+212756;Right Winger
+214135;Central Midfield
+214135;Right-Back
+214443;Centre-Back
+214893;Left Midfield
+214917;Attacking Midfield
+214917;Left Winger
+215286;Central Midfield
+215286;Centre-Back
+215584;Defensive Midfield
+215685;Defensive Midfield
+215878;Right-Back
+215885;Central Midfield
+215885;Defensive Midfield
+215894;Left Winger
+215894;Second Striker
+215963;Centre-Back
+216059;Right-Back
+216654;Sweeper
+216814;Central Midfield
+216967;Attacking Midfield
+217784;Central Midfield
+217802;Attacking Midfield
+222219;Centre-Back
+222503;Right-Back
+222517;Defensive Midfield
+222517;Right-Back
+222774;Left Winger
+222780;Left Winger
+222786;Left-Back
+222818;Centre-Forward
+222908;Defensive Midfield
+222992;Left-Back
+223009;Centre-Back
+223077;Defensive Midfield
+223097;Centre-Forward
+223097;Left Winger
+223114;Central Midfield
+223222;Left-Back
+223335;Right Winger
+223338;Central Midfield
+223472;Left Winger
+225302;Attacking Midfield
+225946;Left-Back
+226421;Defensive Midfield
+227419;Left Midfield
+227452;Right-Back
+227746;Defensive Midfield
+227746;Right-Back
+227862;Left Winger
+233742;Defensive Midfield
+233831;Attacking Midfield
+236054;Left Midfield
+236054;Left Winger
+237180;Attacking Midfield
+237180;Defensive Midfield
+237591;Left Midfield
+237723;Attacking Midfield
+237723;Left Winger
+237782;Centre-Back
+237782;Right-Back
+238741;Defensive Midfield
+239558;Centre-Back
+239875;Centre-Forward
+239875;Second Striker
+241984;Left Winger
+241984;Right Winger
+242406;Centre-Back
+243236;Defensive Midfield
+243495;Centre-Back
+243497;Left-Back
+243519;Defensive Midfield
+243519;Sweeper
+243727;Centre-Forward
+243727;Left Midfield
+244584;Left-Back
+244627;Centre-Back
+244627;Left Midfield
+244896;Centre-Back
+245229;Right Winger
+245241;Right Winger
+245248;Defensive Midfield
+245251;Central Midfield
+245257;Second Striker
+245288;Attacking Midfield
+245319;Central Midfield
+247163;Second Striker
+247430;Right Winger
+247881;Central Midfield
+247881;Right Midfield
+248813;Centre-Forward
+248813;Left Winger
+249219;Right Winger
+249219;Second Striker
+250869;Centre-Back
+250869;Right Midfield
+250878;Left Winger
+250878;Right Winger
+250902;Attacking Midfield
+250902;Defensive Midfield
+251037;Right Winger
+251037;Second Striker
+251095;Left Midfield
+251338;Left Winger
+251338;Right Winger
+251834;Attacking Midfield
+251834;Second Striker
+254135;Left-Back
+254238;Defensive Midfield
+255305;Centre-Back
+256257;Left Midfield
+256257;Right Winger
+258848;Left-Back
+262463;Left-Back
+263561;Second Striker
+265862;Central Midfield
+266488;Right-Back
+281508;Centre-Forward
+281815;Left Midfield
+282246;Defensive Midfield
+282246;Right-Back
+287346;Right-Back
+287697;Left Midfield
+288963;Centre-Forward
+289449;Centre-Forward
+289449;Left Winger
+289694;Centre-Forward
+289694;Second Striker
+289701;Sweeper
+290741;Attacking Midfield
+290741;Defensive Midfield
+294108;Centre-Forward
+295826;Centre-Back
+297947;Centre-Forward
+298901;Attacking Midfield
+299014;Defensive Midfield
+299141;Attacking Midfield
+299141;Second Striker
+299337;Centre-Back
+299710;Left Winger
+300075;Right-Back
+300262;Attacking Midfield
+300262;Second Striker
+302132;Centre-Back
+303581;Left Winger
+304231;Right Winger
+306014;Left Midfield
+306389;Centre-Back
+307169;Centre-Back
+307169;Defensive Midfield
+310850;Defensive Midfield
+310850;Sweeper
+310890;Right Midfield
+311030;Attacking Midfield
+312988;Right-Back
+313039;Centre-Back
+313039;Centre-Forward
+313526;Defensive Midfield
+313707;Centre-Back
+313721;Centre-Forward
+313721;Right Winger
+314509;Centre-Forward
+314509;Left Winger
+318031;Attacking Midfield
+319204;Right Midfield
+319204;Right-Back
+322105;Sweeper
+322767;Central Midfield
+322882;Centre-Back
+322882;Centre-Forward
+323636;Sweeper
+324033;Central Midfield
+324033;Left Winger
+324464;Second Striker
+338033;Left Winger
+338551;Centre-Forward
+338551;Left Midfield
+338932;Left Winger
+347339;Centre-Forward
+348172;Defensive Midfield
+348172;Right-Back
+348183;Defensive Midfield
+348183;Right Midfield
+348184;Centre-Forward
+353834;Right-Back
+353834;Second Striker
+356083;Central Midfield
+356083;Left-Back
+358388;Defensive Midfield
+358388;Sweeper
+358396;Central Midfield
+358925;Right Midfield
+358998;Centre-Back
+358998;Right Midfield
+362028;Left Midfield
+362028;Left-Back
+367771;Left-Back
+381594;Right-Back
+382983;Right Midfield
+399839;Left Winger
+405709;Defensive Midfield
+405709;Left-Back
+408934;Attacking Midfield
+413192;Central Midfield
+413192;Defensive Midfield
+415771;Right Midfield
+415771;Right Winger
+415774;Right-Back
+421541;Attacking Midfield
+421541;Centre-Back
+423501;Left Midfield
+429074;Attacking Midfield
+429074;Left Midfield
+436811;Centre-Forward
+455191;Centre-Back
+455191;Right Midfield
+457038;Left Midfield
+457038;Left Winger
+466392;Centre-Forward
+466619;Centre-Back
+475867;Left Winger
+480665;Centre-Back
+480665;Defensive Midfield
+484005;Left-Back
+492068;Centre-Forward
+492068;Left Winger
+493978;Attacking Midfield
+496814;Centre-Forward
+500568;Right Midfield
+500950;Right Midfield
+503791;Right-Back
+509796;Defensive Midfield
+509796;Right Midfield
+516137;Centre-Back
+522520;Left Winger
+547573;Central Midfield
+550358;Central Midfield
+559255;Attacking Midfield
+564925;Second Striker
+568470;Centre-Forward
+568470;Right Winger
+572983;Right-Back
+574028;Centre-Back
+574028;Defensive Midfield
+575936;Right-Back
+576680;Left Midfield
+576684;Left Midfield
+586737;Left Midfield
+586737;Left-Back
+598396;Central Midfield
+609601;Centre-Forward
+619285;Second Striker
+623583;Second Striker
+624524;Centre-Forward
+625832;Right Midfield
+625842;Second Striker
+627121;Right-Back
+628817;Left-Back
+629028;Left-Back
+629950;Left Midfield
+641552;Left Winger
+646278;Left Midfield
+646514;Centre-Forward
+656938;Attacking Midfield
+680121;Attacking Midfield
+690282;Centre-Back
+697992;Left-Back
+700260;Right-Back
+701385;Sweeper
+710710;Attacking Midfield
+711041;Centre-Forward
+721525;Right-Back
+721737;Left-Back
+742981;Central Midfield
+742981;Left Midfield
+742982;Defensive Midfield
+742982;Right Midfield
+752044;Central Midfield
