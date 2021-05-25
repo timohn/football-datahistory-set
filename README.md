@@ -7,4 +7,4 @@ Therefore you will find a snapshot of data for every year and every table of the
 Please observe the data carefully before using it, so you won`t be suprised by the behaviour of the data.
 Find followed a table diagram of the scheme.
 
-![table diargam](images/scheme.png "table diagram of the scheme")
+![table diargam of the scheme](https://github.com/timohn/football-datahistory-set/blob/main/images/scheme.PNG?raw=true)
